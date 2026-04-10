@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "title": "The Word Wave - Content Creation Agency",
+    "description": "MENA's Premiere Content Writing Platform. Save Time, Cut Costs, and Skyrocket Your Conversion Rates — Leverage the Power of Tailored Content with The WordWave."
+  },
+  "nav": {
+    "process": "Process",
+    "benefits": "Benefits",
+    "services": "Services",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "bookAudit": "Book a Free Content Audit",
+    "bookCall": "Book a Call"
+  },
+  "hero": {
+    "badge": "MENA's Premiere Content Writing Platform",
+    "headline": "Match. <purple>Create.</purple> Thrive. Experience <purple>content</purple> the right way",
+    "subheading": "Save Time, Cut Costs, and Skyrocket Your Conversion Rates\u2014Leverage the Power of Tailored Content with The <link>WordWave</link>",
+    "cta": "Book a call"
+  },
+  "stats": {
+    "trustedBy": "Trusted by",
+    "items": [
+      { "value": "100+", "label": "Happy customers" },
+      { "value": "150+", "label": "Projects completed" },
+      { "value": "98%", "label": "Customer satisfaction" }
+    ]
+  },
+  "process": {
+    "label": "Process",
+    "heading": "Streamlined and Effective",
+    "subheading": "Our simple 4-step process",
+    "steps": [
+      {
+        "title": "Request",
+        "description": "Book a call, share your requirements and we'll handle the rest."
+      },
+      {
+        "title": "Match",
+        "description": "Sit back as we scout our network of top regional writers for the ideal fit."
+      },
+      {
+        "title": "Recieve",
+        "description": "Your content writer will integrate into your team."
+      },
+      {
+        "title": "Benefit",
+        "description": "Benefit from dedicated account managers and proofreaders"
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Benefits",
+    "heading": "Our Benefits",
+    "subheading": "Content perks so irresistible, you'll wonder why you ever looked elsewhere.",
+    "items": [
+      { "title": "Unlimitted Requests", "subtitle": "Need One? Need Many? We Deliver" },
+      { "title": "Fast Turnaround Time", "subtitle": "Speed meets quality, guaranteed" },
+      { "title": "Customized Content", "subtitle": "Your Brand Speaks, We Craft It" },
+      { "title": "Unlimited Revisions", "subtitle": "Perfect content, endless revisions" },
+      { "title": "Diverse Languages", "subtitle": "Arabic, English, and French, we do it all" },
+      { "title": "Personalized Support", "subtitle": "Seamless communication, every step" }
+    ]
+  },
+  "services": {
+    "label": "Services",
+    "heading": "What we offer",
+    "subheading": "A glimpse into our wide range of services",
+    "cta": "Book a Free Content Audit",
+    "items": [
+      {
+        "title": "Content Strategy",
+        "description": "We'll analyze your market, identify opportunities, and create a roadmap to maximize your content's impact."
+      },
+      {
+        "title": "Industry-Specific",
+        "description": "Unique logos crafted to reflect your brand's essence, leaving a memorable mark that resonates with your audience."
+      },
+      {
+        "title": "SEO Optimization",
+        "description": "SEO-optimized content crafted by experts to enhance search engine rankings."
+      },
+      {
+        "title": "Creative Copywriting",
+        "description": "Engaging and persuasive copy tailored to your marketing business needs and targeted audience"
+      },
+      {
+        "title": "Translation and Localization",
+        "description": "Break language barriers and expand your reach with our professional translation services."
+      },
+      {
+        "title": "Proofreading and Editing",
+        "description": "Our editors will review your content for grammar, style, and clarity, ensuring it resonates with your audience."
+      }
+    ]
+  },
+  "projects": {
+    "label": "Projects",
+    "heading": "Blogs",
+    "subheading": "Take a look at our latest projects",
+    "viewBlog": "View blog"
+  },
+  "faq": {
+    "label": "FAQ",
+    "heading": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "How does The WordWave select writers for content projects?",
+        "answer": "We have a rigorous vetting process to ensure we match our clients with the best writers for their projects. Our writers undergo a comprehensive evaluation of their skills, experience, and expertise in their respective fields. We also consider factors such as writing style, language proficiency, and industry knowledge to ensure we provide high-quality content that meets our clients' needs."
+      },
+      {
+        "question": "Can I request revisions to my content?",
+        "answer": "Absolutely! We offer unlimited revisions to ensure your content meets your expectations. Our writers will work closely with you to refine the content until you're completely satisfied."
+      },
+      {
+        "question": "How does the translation process work?",
+        "answer": "Our translation process involves native-speaking translators who specialize in your target language. We ensure cultural nuances and context are preserved while maintaining the original message's intent and tone."
+      },
+      {
+        "question": "What industries do you specialize in for content creation?",
+        "answer": "We specialize in a wide range of industries including technology, healthcare, finance, e-commerce, real estate, education, and more. Our diverse team of writers brings expertise from various sectors."
+      },
+      {
+        "question": "How do I get started with The Wordwave?",
+        "answer": "Getting started is simple! Book a call with us through our scheduling link, share your content requirements, and we'll match you with the perfect writer for your project."
+      },
+      {
+        "question": "What types of content formats do you specialize in?",
+        "answer": "We specialize in a wide range of content formats including blog posts, articles, website copy, social media content, email newsletters, whitepapers, case studies, product descriptions, and more."
+      },
+      {
+        "question": "How long does it take to complete a content project?",
+        "answer": "Project timelines vary depending on scope and complexity. Typically, blog posts and articles are delivered within 3-5 business days, while larger projects like whitepapers or content strategies may take 1-2 weeks."
+      },
+      {
+        "question": "What measures do you take to ensure the confidentiality of sensitive information?",
+        "answer": "We take confidentiality very seriously. All our writers sign NDAs, and we have strict data protection policies in place. Your business information and content strategies are kept completely confidential."
+      },
+      {
+        "question": "Can I request content in multiple languages?",
+        "answer": "Yes! We offer content creation in Arabic, English, and French. Our native-speaking writers ensure culturally relevant and linguistically accurate content in each language."
+      },
+      {
+        "question": "What payment options do you accept?",
+        "answer": "We accept various payment methods including bank transfers, credit cards, and online payment platforms. We offer flexible payment plans tailored to your project needs."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Elevate Your Brand with Unlimited Content Requests and Unmatched Value!",
+    "button": "Book a Free Content Audit"
+  },
+  "footer": {
+    "copyright": "\u00a9 Copyright 2024 The WordWave."
+  },
+  "blogs": {
+    "backHome": "Back Home",
+    "title": "Blogs",
+    "viewBlog": "View blog",
+    "relatedPosts": "Related Posts"
+  },
+  "notFound": {
+    "code": "404",
+    "heading": "Page Not Found",
+    "description": "The page you are looking for doesn't exist or has been moved.",
+    "backHome": "Back to Home"
+  }
+}

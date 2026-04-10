@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "wordwave-dev",
+      "runtimeExecutable": "/Users/Youssef/.nvm/versions/node/v20.20.0/bin/npx",
+      "runtimeArgs": ["next", "dev"],
+      "port": 3000
+    }
+  ]
+}
